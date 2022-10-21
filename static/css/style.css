@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("background.jpeg");
+    background-image: url("../images/background.jpeg");
     background-size: 100% 100%;
     text-align: center;
 }
